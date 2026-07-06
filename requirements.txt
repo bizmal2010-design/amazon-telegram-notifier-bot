@@ -40,6 +40,6 @@ typing-extensions==4.15.0
     # via pyee
 tzdata==2026.2
     # via pandas
-
+aiosqlite==0.20.0
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
